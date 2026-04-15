@@ -1,1 +1,2 @@
 # CBE-memory-verification
+This project implements a modular class-based verification environment in SystemVerilog to verify a 32-bit memory DUT. It includes core verification components such as driver, monitor, scoreboard, and transaction classes, structured to ensure reusability and scalability. Functional verification is performed using a self-checking testbench approach, enabling thorough validation of memory operations and correct DUT behavior.
